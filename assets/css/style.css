@@ -592,6 +592,13 @@ section .container {
 /*--------------------------------------------------------------
 # Resume
 --------------------------------------------------------------*/
+
+span.text-underline {
+  text-decoration: underline;
+  /* text-decoration-thickness: 1px; */
+}
+
+
 .resume .resume-title {
   font-size: 26px;
   font-weight: 700;
